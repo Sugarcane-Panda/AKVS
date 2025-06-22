@@ -21,7 +21,7 @@ public class oops {
         Pen pen2 = new Pen();
         pen2.color = "Blue";
         pen2.type = "Gel Point";
-        pen1.Writing();
-        
+        pen2.Writing();
+
     }
 }
