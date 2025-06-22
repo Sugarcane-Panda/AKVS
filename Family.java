@@ -13,8 +13,7 @@ class Father extends GrandFather {
 
 class Uncle extends GrandFather {
 
-    String business;
-
+    // String business;
     void displayBusiness(String b) {
         System.out.println("Uncles Business:" + b);
     }
